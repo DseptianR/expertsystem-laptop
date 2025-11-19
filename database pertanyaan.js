@@ -35,13 +35,13 @@
                 description: 'Pilih brand yang Anda sukai atau "Semua Brand"',
                 options: [
                     { value: 'any', label: 'Semua Brand', desc: 'Tidak ada preferensi', emoji: '🌟' },
-                    { value: 'asus', label: 'ASUS', desc: 'ROG, TUF, VivoBook', emoji: 'logo/Asus.png' },
-                    { value: 'lenovo', label: 'Lenovo', desc: 'ThinkPad, Legion, IdeaPad', emoji: 'logo/Lenovo.png' },
-                    { value: 'hp', label: 'HP', desc: 'Pavilion, Envy, Omen', emoji: 'logo/Hp.png' },
-                    { value: 'dell', label: 'Dell', desc: 'XPS, Inspiron, Alienware', emoji: 'logo/Dell.png' },
-                    { value: 'apple', label: 'Apple', desc: 'MacBook Air, MacBook Pro', emoji: 'logo/Apple.png' },
-                    { value: 'acer', label: 'Acer', desc: 'Swift, Nitro, Predator', emoji: 'logo/Acer.png' },
-                    { value: 'msi', label: 'MSI', desc: 'Creator, Prestige, Gaming', emoji: 'logo/Msi.png' }
+                    { value: 'asus', label: 'ASUS', desc: 'ROG, TUF, VivoBook', emoji: 'Asus.png' },
+                    { value: 'lenovo', label: 'Lenovo', desc: 'ThinkPad, Legion, IdeaPad', emoji: 'Lenovo.png' },
+                    { value: 'hp', label: 'HP', desc: 'Pavilion, Envy, Omen', emoji: 'Hp.png' },
+                    { value: 'dell', label: 'Dell', desc: 'XPS, Inspiron, Alienware', emoji: 'Dell.png' },
+                    { value: 'apple', label: 'Apple', desc: 'MacBook Air, MacBook Pro', emoji: 'Apple.png' },
+                    { value: 'acer', label: 'Acer', desc: 'Swift, Nitro, Predator', emoji: 'Acer.png' },
+                    { value: 'msi', label: 'MSI', desc: 'Creator, Prestige, Gaming', emoji: 'Msi.png' }
                 ]
             },
             {
@@ -91,4 +91,5 @@
                     { value: 'long', label: 'Panjang', desc: '9+ jam (All day)', emoji: '🔌' }
                 ]
             }
+
         ];
